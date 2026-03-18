@@ -1,16 +1,54 @@
-## Hi there 👋
+## 👋 Olá, eu sou o Diogo!
 
-<!--
-**mrrtnsx/mrrtnsx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)  
+💻 Focado em me tornar desenvolvedor  
+🚀 Atualmente estudando lógica de programação e linguagem C  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mim
+
+Sou apaixonado por tecnologia e estou no início da minha jornada como desenvolvedor.  
+Atualmente estou focado em construir uma base sólida em programação, praticando exercícios e desenvolvendo pequenos projetos.
+
+---
+
+## 🛠️ Tecnologias e ferramentas
+
+- 💻 C (em aprendizado)
+- 🧠 Lógica de programação
+- 🛠️ Git e GitHub
+- 💡 VS Code
+
+---
+
+## 📚 Atualmente estudando
+
+- Funções em C  
+- Estruturas de dados básicas  
+- Boas práticas de programação  
+
+---
+
+## 📈 Meus objetivos
+
+- Evoluir na programação  
+- Aprender Java  
+- Conseguir uma oportunidade como desenvolvedor  
+
+---
+
+## 📊 GitHub Stats
+
+![Diogo GitHub stats](https://github-readme-stats.vercel.app/api?username=mrrtnsxO&show_icons=true&theme=radical)
+
+---
+
+## 📫 Contato
+
+- LinkedIn: (https://www.linkedin.com/in/diogo-martins-jr/
+- Email: dloite16@gmail.com
+
+---
+
+✨ Sempre em evolução!
