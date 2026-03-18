@@ -46,20 +46,8 @@ Resolvo alguns problemas no beecrowd.
 
 ---
 
-## 📊 GitHub Stats
-
-![Diogo GitHub stats] https://github-readme-stats.vercel.app/api?username=mrrtnsxO&show_icons=true&theme=radical
-
----
-
 ## 😂 Fun facts
 - Tenho 3 gatos
 - Jogo transformice
 - Tenho dupla nacionalidade portuguesa
 
-## 📫 Contato
-
-- LinkedIn: https://www.linkedin.com/in/diogo-martins-jr/
-- Email: dloite16@gmail.com
-
----
