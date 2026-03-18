@@ -3,7 +3,7 @@
 ## Bem-vindo ao meu perfil, meu nome é Diogo!
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)  
-💻 Focado em me tornar desenvolvedor back-end
+💻 Focado em me tornar desenvolvedor back-end 
 🚀 Atualmente estudando lógica de programação e linguagem C  
 💼 Trabalho como auxiliar de contabilidade
 
