@@ -1,15 +1,19 @@
-## 👋 Olá, eu sou o Diogo!
+## 👋 Olá, mundo!
+
+## Bem-vindo ao meu perfil, meu nome é Diogo!
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)  
-💻 Focado em me tornar desenvolvedor  
+💻 Focado em me tornar desenvolvedor back-end
 🚀 Atualmente estudando lógica de programação e linguagem C  
+💼 Trabalho como auxiliar de contabilidade
 
 ---
 
 ## 🧠 Sobre mim
 
-Sou apaixonado por tecnologia e estou no início da minha jornada como desenvolvedor.  
+Sou apaixonado por tecnologia desde criança, cresci jogando no computador e isso faz parte da minha vida.
 Atualmente estou focado em construir uma base sólida em programação, praticando exercícios e desenvolvendo pequenos projetos.
+Resolvo alguns problemas no beecrowd.
 
 ---
 
@@ -26,29 +30,36 @@ Atualmente estou focado em construir uma base sólida em programação, pratican
 
 - Funções em C  
 - Estruturas de dados básicas  
-- Boas práticas de programação  
+- Boas práticas de programação
+- Suporte técnico de T.i
 
 ---
 
-## 📈 Meus objetivos
+## 📈 Minhas skills
 
-- Evoluir na programação  
-- Aprender Java  
-- Conseguir uma oportunidade como desenvolvedor  
+- C (Em desenvolvimento)
+- Hardwares
+- Redes
+- Suporte Técnico
+- Sistemas Operacionais
+- Lógica de programação 
 
 ---
 
 ## 📊 GitHub Stats
 
-![Diogo GitHub stats](https://github-readme-stats.vercel.app/api?username=mrrtnsxO&show_icons=true&theme=radical)
+![Diogo GitHub stats] https://github-readme-stats.vercel.app/api?username=mrrtnsxO&show_icons=true&theme=radical
 
 ---
+
+## 😂 Fun facts
+- Tenho 3 gatos
+- Jogo transformice
+- Tenho dupla nacionalidade portuguesa
 
 ## 📫 Contato
 
-- LinkedIn: (https://www.linkedin.com/in/diogo-martins-jr/
+- LinkedIn: https://www.linkedin.com/in/diogo-martins-jr/
 - Email: dloite16@gmail.com
 
 ---
-
-✨ Sempre em evolução!
