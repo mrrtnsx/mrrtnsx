@@ -27,7 +27,7 @@ Resolvo alguns problemas no beecrowd.
 
 ## 📚 Atualmente estudando
 
-- Funções em C  
+- Linguagem C  
 - Estruturas de dados básicas  
 - Boas práticas de programação
 - Suporte técnico de T.i
