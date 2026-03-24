@@ -3,7 +3,7 @@
 ## Bem-vindo ao meu perfil, meu nome é Diogo!
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)  
-- 🚀 Atualmente estudando lógica de programação e linguagem C  
+- 🚀 Atualmente estudando Java
 - 💼 Trabalho como auxiliar de contabilidade
 
 ---
@@ -18,30 +18,30 @@ Resolvo alguns problemas no beecrowd.
 
 ## 🛠️ Tecnologias e ferramentas
 
-- 💻 C (em aprendizado)
+- ☕ Java (Em aprendizado)
+- 💻 C (Lógica de programação)
 - 🧠 Lógica de programação
 - 🛠️ Git e GitHub
 - 💡 VS Code
+- ⚙️ IntelliJ
 
 ---
 
 ## 📚 Atualmente estudando
 
-- Linguagem C  
-- Estruturas de dados básicas  
+- Java 
 - Boas práticas de programação
 - Suporte técnico de T.i
 
 ---
 
-## 📈 Minhas skills
+## 📈 Softskills
 
-- C (Em desenvolvimento)
-- Hardwares
-- Redes
-- Suporte Técnico
-- Sistemas Operacionais
-- Lógica de programação 
+- Proatividade
+- Paciência
+- Calma
+- Analítico
+- Ouvinte
 
 ---
 
