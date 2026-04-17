@@ -24,6 +24,7 @@ Resolvo alguns problemas no beecrowd.
 - 🛠️ Git e GitHub
 - 💡 VS Code
 - ⚙️ IntelliJ
+- 📊 Excel (análise e organização de dados)
 
 ---
 
