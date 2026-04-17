@@ -4,7 +4,7 @@
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)  
 - 🚀 Atualmente estudando Java
-- 💼 Trabalho como auxiliar de contabilidade
+- 💼 Trabalho como Auxiliar de Contabilidade
 
 ---
 
@@ -20,7 +20,7 @@ Resolvo alguns problemas no beecrowd.
 
 - ☕ Java (Em aprendizado)
 - 💻 C (Lógica de programação)
-- 🧠 Lógica de programação
+- 🛢️ SQL
 - 🛠️ Git e GitHub
 - 💡 VS Code
 - ⚙️ IntelliJ
@@ -29,7 +29,7 @@ Resolvo alguns problemas no beecrowd.
 
 ## 📚 Atualmente estudando
 
-- Java 
+- Java e SQL
 - Boas práticas de programação
 - Suporte técnico de T.i
 
