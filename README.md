@@ -16,35 +16,29 @@ Resolvo alguns problemas no beecrowd.
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
-
-- ☕ Java (Em aprendizado)
-- 💻 C (Lógica de programação)
-- 🛢️ SQL
-- 🛠️ Git e GitHub
-- 💡 VS Code
-- ⚙️ IntelliJ
-- 📊 Excel (análise e organização de dados)
+## 🚀 Tecnologias
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## 📚 Atualmente estudando
-
-- Java e SQL
-- Boas práticas de programação
-- Suporte técnico de T.i
+## 📊 Estatísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight)
 
 ---
 
-## 📈 Softskills
-
-- Proatividade
-- Paciência
-- Calma
-- Analítico
-- Ouvinte
+## 🔥 Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=tokyonight)
 
 ---
+
+## 📌 Projetos
+- Web scraping Java + MySQL
+---
+
 
 ## 😂 Fun facts
 - Tenho 3 gatos
