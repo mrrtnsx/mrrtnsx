@@ -4,7 +4,7 @@
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)  
 - 🚀 Atualmente estudando Java
-- 💼 Trabalho como Auxiliar de Contabilidade
+- 💼 Trabalho como Suporte Técnico de T.I
 
 ---
 
@@ -30,12 +30,6 @@ Resolvo alguns problemas no beecrowd.
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 📊 Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrrtnsx&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrrtnsx&layout=compact&theme=tokyonight)
 
 ---
 
